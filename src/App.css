@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+}
+.app__page{
+  display: flex;
+}
+.app__page>Sidebar{
+  position: sticky;
+}
